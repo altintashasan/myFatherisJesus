@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hasan
 - 👀 I’m interested in Embedded Software and Smart City Applications and AI.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently improving my soft skills.
 - 📫 How to reach me altintashasann@gmail.com
 
 <!---
